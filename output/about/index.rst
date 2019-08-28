@@ -12,6 +12,11 @@ Overview
 
 This page contains some technical notes about this site.
 
+Run nikola within a virtual environment
+---------------------------------------
+
+Use **workon nikola**.
+
 Reusing Posts from the F2015 Pelican Site
 -----------------------------------------
 

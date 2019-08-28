@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/</loc>
-  <lastmod>2017-11-27T01:54:00Z</lastmod>
+  <lastmod>2019-08-28T09:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/2017/</loc>
   <lastmod>2017-08-25T22:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aubreymoore.github.io/ALBI345F17/2019/</loc>
+  <lastmod>2019-08-28T09:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/about/</loc>
@@ -19,7 +23,7 @@
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/archive.html</loc>
-  <lastmod>2017-10-29T05:49:00Z</lastmod>
+  <lastmod>2019-08-28T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/</loc>
@@ -27,23 +31,23 @@
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/index-1.html</loc>
-  <lastmod>2017-08-25T22:16:00Z</lastmod>
+  <lastmod>2019-08-28T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/index-2.html</loc>
-  <lastmod>2017-10-29T04:14:00Z</lastmod>
+  <lastmod>2019-08-28T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/index-3.html</loc>
-  <lastmod>2017-10-29T07:16:00Z</lastmod>
+  <lastmod>2019-08-28T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/index-4.html</loc>
-  <lastmod>2017-11-04T07:13:00Z</lastmod>
+  <lastmod>2019-08-28T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/index-5.html</loc>
-  <lastmod>2017-10-29T05:53:00Z</lastmod>
+  <lastmod>2019-08-28T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI345F17/blog/lab01/</loc>

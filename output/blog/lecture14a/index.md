@@ -1,5 +1,5 @@
 Title: Lecture 14a:  Guest lecture by Jesse Bamba - Insect Pests on Guam
-Date: 10/03/2017 11:00:00 AM
+Date: 2019-06-06 10:00
 Tags: lecture
 
 * [PowerPoint Presentation: Insect Pests on Guam](/pdfs/bamba_insect_pests.pptx)

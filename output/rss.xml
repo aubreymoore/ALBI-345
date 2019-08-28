@@ -1,50 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>ALBI345F17</title><link>https://aubreymoore.github.io/ALBI345F17/</link><description>This is a demo site for Nikola.</description><atom:link href="https://aubreymoore.github.io/ALBI345F17/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Sat, 04 Nov 2017 07:13:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture 14: Insect Ecology - Population dynamics; Predator-prey relationships and biological control</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture14/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;&lt;a href="https://youtu.be/3n4kt-hOpzc"&gt;Zombie parasites YouTube video&lt;/a&gt;&lt;/p&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture14/</guid><pubDate>Sun, 31 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 15: Insect Ecology - Semiochemicals</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture15/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture15/</guid><pubDate>Sun, 31 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 16: Insect Ecology - Insect Population Dynamics</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture16/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;!---
-A lecture on Semiochemicals originally scheduled for this time slot.
---&gt;
-
-&lt;h3&gt;Exponential Growth&lt;/h3&gt;
-&lt;p&gt;dN/dt = rN&lt;/p&gt;
-&lt;p&gt;where:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>ALBI345F17</title><link>https://aubreymoore.github.io/ALBI345F17/</link><description>This is a demo site for Nikola.</description><atom:link href="https://aubreymoore.github.io/ALBI345F17/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Wed, 28 Aug 2019 09:55:16 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lab 1: Intro to insect collecting - tools of the trade</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;Visit to UOG Insect Collection&lt;/h4&gt;
+&lt;h4&gt;Demo: Basic Insect Collecting and Preservation Techniques&lt;/h4&gt;
+&lt;p&gt;Handed out nets, pins, killing jars, collection boxes&lt;/p&gt;
+&lt;h4&gt;Demo: Proper Use of a Stereozoom Microscope&lt;/h4&gt;
+&lt;h4&gt;First Collecting Experience&lt;/h4&gt;
+&lt;p&gt;changed again&lt;/p&gt;&lt;/div&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab01/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 2: Special techniques -spreading moths and butterflies - pointing small insects</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab02/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;General collecting&lt;/h4&gt;
+&lt;h4&gt;Demo: How to preserve small insects on paper points&lt;/h4&gt;&lt;/div&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab02/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 3: Insect Photography</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab03/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab03/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 4: Independent work on collection</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab04/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab04/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 5: Independent work on collection</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab05/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab05/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 6: Independent work on collection</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab06/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab06/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 7: Proposals for Research Projects</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab07/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab07/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 8: Field Trip to Yigo Ag. Expt. Stn.</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab08/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab08/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 9: Independent work on collection</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab09/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab09/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item><item><title>Lab 10: Independent work on collection and projects- Review for Exam 2</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab10/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h2&gt;Review in Preparation for Exam 2&lt;/h2&gt;
+&lt;p&gt;Topics covered by this exam are cumulative since the start of the course.
+However, most questions will be on topics covered since Exam 1.&lt;/p&gt;
+&lt;h3&gt;Topics Covered Since Exam 1&lt;/h3&gt;
+&lt;h4&gt;Common Insect Pests on Guam (Guest Lecture by Jesse Bamba)&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;r is the intrinsic growth rate: (births - deaths)/N&lt;/li&gt;
-&lt;li&gt;N is the population size&lt;/li&gt;
+&lt;li&gt;Major crop pests on Guam&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=c6pcRR5Uy6w"&gt;Exponential Growth (YouTube; 10 minutes)&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Logistic Growth&lt;/h3&gt;
-&lt;p&gt;dN/dt = rN((K-N)/K)&lt;/p&gt;
-&lt;p&gt;where:&lt;/p&gt;
+&lt;h4&gt;Invasive Species&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;K is the carrying capacity, the maximum population size that can be sustained by the environment&lt;/li&gt;
+&lt;li&gt;Definition of "invasive species"&lt;/li&gt;
+&lt;li&gt;Why are tropical islands so susceptible to damage by invasive species?&lt;/li&gt;
+&lt;li&gt;Which insect order is the most problematic for Guam's biosecurity?&lt;ul&gt;
+&lt;li&gt;Why is this insect order such a problem?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rXlyYFXyfIM"&gt;Logistic Growth (YouTube; 11 minutes)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Name some important invasive insect species and describe the problems they are causing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Insect Population Dynamics&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Building a simple computer model of logistic growth&lt;/li&gt;
+&lt;li&gt;Exponential growth model&lt;ul&gt;
+&lt;li&gt;r: the intrinsic rate of increase (= birth rate - death rate)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;r and K Selection&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Logistic growth model&lt;ul&gt;
+&lt;li&gt;k: carrying capacity (= maximum number of individuals that can be sustained by resources)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;r and k selected reproduction strategies&lt;/li&gt;
+&lt;li&gt;Lotka-Volterra predator-prey model&lt;/li&gt;
+&lt;li&gt;x&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Applied Entomology&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;r selected organisms produce many offspring = a high reproduction rate (r)&lt;/li&gt;
-&lt;li&gt;K selected organisms produce few offspring, but put significant resources into ensuring their survival&lt;/li&gt;
+&lt;li&gt;Integrated Pest Management (IPM)&lt;ul&gt;
+&lt;li&gt;IPM Tactics&lt;/li&gt;
+&lt;li&gt;Economic threshold (= economic injury level (EIL)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Bu6ouKt9zhs"&gt;r/K Selection(YouTube; 7 minutes)&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Simulating Coconut Rhinoceros Population Dynamics&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/crb_population_dynamics.ipynb"&gt;An interactive Jupyter notebook which explores coconut rhinoceros beetle is available here&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Lotka-Volterra Model of Interspecific Competition&lt;/h3&gt;
-&lt;p&gt;The Lotka-Volterra model is used to calculate changes in the populations of two interacting populations
-such as a predator and its prey, or an insect and its parasitoid.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/Lotka-Volterra-Model.ipynb"&gt;An interactive Jupyter notebook which explores the Lotka-Volterra model is available here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI345F17/pdfs/Lotka-Volterra-Model.html"&gt;Handout: Lotka-Volterra Model&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture16/</guid><pubDate>Sun, 31 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 17: Insect Ecology - Pollination</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture17/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI345F17/pdfs/social%20insects.ppt"&gt;Social Insects (PPT)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI345F17/pdfs/1095honey.ppt"&gt;Honey Bees (PPT)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI345F17/pdfs/IB10932KillerBee.ppt"&gt;Killer Bees (PPT)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture17/</guid><pubDate>Sun, 31 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 18: Applied Entomology</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture18/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;!---
-[Pollination (PPT)](/pdfs/pollination.ppt)
----&gt;
-
-&lt;p&gt;Lecture: Applied Entomology &lt;a href="https://aubreymoore.github.io/ALBI345F17/pdfs/applied-ent.ppt"&gt;PPT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Zombie parasites &lt;a href="https://youtu.be/3n4kt-hOpzc"&gt;YouTube video; 24 m&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture18/</guid><pubDate>Sun, 31 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 19: Mimicry</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture19/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI345F17/pdfs/ent%20101%20mimicry.ppt"&gt;Mimicry (PPT)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;There is an excellent &lt;a href="https://en.wikipedia.org/wiki/Mimicry"&gt;Wikipedia article on mimicry&lt;/a&gt;. Well worth reading.&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture19/</guid><pubDate>Sun, 31 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 29: TBD - Review for Exam 3</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture29/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture29/</guid><pubDate>Thu, 07 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lecture 28: TBD</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture28/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h3&gt;TED Talk&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://www.ted.com/talks/marcel_dicke_why_not_eat_insects#"&gt;Marcel Dicke: &lt;strong&gt;Why Not Eat Insects?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;UN-FAO Report&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://www.fao.org/docrep/018/i3253e/i3253e00.htm"&gt;Edible insects
-&lt;strong&gt;Future prospects for food and feed security&lt;/strong&gt;, Food and Agriculture Organization of the United Nations, Rome, 2013 &lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Insect Cook Books&lt;/h3&gt;
-&lt;p&gt;&lt;a href="http://www.amazon.com/The-Insect-Cookbook-Sustainable-Perspectives-ebook/dp/B00I2G6SIC/ref=dp_kinw_strp_1"&gt;&lt;strong&gt;The Insect Cookbook: Food for a Sustainable Planet&lt;/strong&gt; and other books&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture28/</guid><pubDate>Tue, 05 Dec 2017 01:00:00 GMT</pubDate></item><item><title>Lab 15: Turn in Collections for Grading</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lab15/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab15/</guid><pubDate>Mon, 04 Dec 2017 02:30:00 GMT</pubDate></item><item><title>Lecture 27: Silk</title><link>https://aubreymoore.github.io/ALBI345F17/blog/lecture27/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lecture27/</guid><pubDate>Thu, 30 Nov 2017 01:00:00 GMT</pubDate></item></channel></rss>
+&lt;/li&gt;
+&lt;li&gt;Pesticides&lt;ul&gt;
+&lt;li&gt;Pest resurgence&lt;/li&gt;
+&lt;li&gt;Pesticide resistance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Biological Control&lt;ul&gt;
+&lt;li&gt;Insect parasitoids&lt;/li&gt;
+&lt;li&gt;Insect predators&lt;/li&gt;
+&lt;li&gt;Insect pathogens&lt;/li&gt;
+&lt;li&gt;Classical biocontrol, augmentive biocontrol, conserving natural enemies&lt;/li&gt;
+&lt;li&gt;Insect herbivores for controlling weeds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Impact of Climate Change on Coconut Rhinoceros Beetle Outbreaks in the Pacific (Presentation by Aubrey Moore)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain how Typhoon Dolphin may have triggered the coconut rhinoceros beetle outbreak we are currently experiencing on Guam&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI345F17/blog/lab10/</guid><pubDate>Wed, 28 Aug 2019 09:26:26 GMT</pubDate></item></channel></rss>

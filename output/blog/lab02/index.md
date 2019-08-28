@@ -1,5 +1,15 @@
+<!-- 
+.. title: Lab 2: Special techniques -spreading moths and butterflies - pointing small insects
+.. slug: 
+.. date: 2019-08-28 19:26:26 UTC+10:00
+.. tags: lab
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+-->
 Title: Lab 2: Special techniques -spreading moths and butterflies - pointing small insects
-Date: 08/28/2017 12:30:00 PM
+Date: 2019-06-06 10:00
 Tags: lab
 
 

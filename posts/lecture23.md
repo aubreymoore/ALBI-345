@@ -1,5 +1,5 @@
 Title: Lecture 23: Urban Entomology
-Date: 11/14/2017 11:00:00 AM
+Date: 2019-06-06 10:00
 Tags: lecture
 
 

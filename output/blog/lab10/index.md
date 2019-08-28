@@ -1,6 +1,13 @@
-Title: Lab 10: Independent work on collection and projects- Review for Exam 2
-Date: 10/30/2017 12:30:00 PM
-Tags: lab
+<!-- 
+.. title: Lab 10: Independent work on collection and projects- Review for Exam 2
+.. slug: 
+.. date: 2019-08-28 19:26:26 UTC+10:00
+.. tags: lab
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+-->
 
 # Review in Preparation for Exam 2
 

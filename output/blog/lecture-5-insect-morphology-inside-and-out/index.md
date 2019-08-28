@@ -1,6 +1,6 @@
 Title: Lecture 5: External Insect Morphology
 Slug: lecture-5-insect-morphology-inside-and-out
-Date: 08/31/2017 11:00:00 AM
+Date: 2019-06-06 10:00
 Tags: lecture
 
 

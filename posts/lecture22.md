@@ -1,5 +1,5 @@
 Title: Lecture 22: Economic Entomology and Pest Control
-Date: 11/09/2017 11:00:00 AM
+Date: 2019-06-06 10:00
 Tags: lecture
 
 

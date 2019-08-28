@@ -1,6 +1,6 @@
 Title: Lecture 6: Internal insect Morphology
 Slug: lecture-6-internal-insect-morphology
-Date: 09/05/2017 11:00:00 AM
+Date: 2019-06-06 10:00
 Tags: lecture
 
 

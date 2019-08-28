@@ -1,5 +1,5 @@
 Title: Lecture 28: TBD
-Date: 12/05/2017 11:00:00 AM
+Date: 2019-06-06 10:00
 Tags: lecture
 
 
