@@ -23,7 +23,7 @@ h2, .h2 {
 
 <div class="jumbotron">
 <h1>AL/BI 345 - General Entomology</h1>
-<h2>Fanuchanan (Fall) Semester, 2017</h2>
+<h2>Fanuchanan (Fall) Semester 2019</h2>
 <h2>Instructor: Dr. Aubrey Moore</h2>
 </div>
 
@@ -59,4 +59,3 @@ h2, .h2 {
 </div>
 
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=fee5fmkp5k5qdcc3ftppl09kas%40group.calendar.google.com&amp;color=%23333333&amp;ctz=Pacific%2FGuam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-

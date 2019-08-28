@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Aubrey Moore"  # (translatable)
 BLOG_TITLE = "ALBI345F17"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://aubreymoore.github.io/ALBI345F17/"
+SITE_URL = "https://aubreymoore.github.io/ALBI-345/output/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
