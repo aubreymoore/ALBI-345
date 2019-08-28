@@ -1,0 +1,4 @@
+Sitemap: https://aubreymoore.github.io/ALBI345F17/sitemapindex.xml
+
+User-Agent: *
+Host: aubreymoore.github.io

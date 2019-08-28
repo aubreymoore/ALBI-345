@@ -1,0 +1,8 @@
+.navbar-inverse{background-color: green}
+
+.navbar-inverse .navbar-brand{color: white}
+
+.navbar-inverse .navbar-nav > li > a {color: white}
+
+a{color: green} 
+
