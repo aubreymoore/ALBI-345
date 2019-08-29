@@ -1,0 +1,3 @@
+.doit*
+cache/*
+__pycache__/*
