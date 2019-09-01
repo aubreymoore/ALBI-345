@@ -1,5 +1,4 @@
 ####MAGIC####TIMELINE
-cache/posts/lecture01.html
 cache/posts/lecture29.html
 cache/posts/lecture28.html
 cache/posts/lecture27.html
@@ -32,9 +31,10 @@ cache/posts/lecture09.html
 cache/posts/lecture08.html
 cache/posts/lecture07.html
 cache/posts/lecture06.html
-cache/posts/lecture05.html
-cache/posts/lecture04.html
-cache/posts/lecture03.html
+cache/posts/lecture01.html
 cache/posts/lecture02.html
+cache/posts/lecture03.html
+cache/posts/lecture04.html
+cache/posts/lecture05.html
 /usr/local/lib/python3.7/site-packages/nikola/data/themes/base/templates/post_list_directive.tmpl
 ####MAGIC####TIMELINE

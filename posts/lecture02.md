@@ -1,5 +1,5 @@
 Title: Lecture 2: Insect Biodiversity and Taxonomy
-Date: 2019-06-06 10:00
+Date: 2019-08-27 11:00
 Tags: lecture
 
 ### Short video on taxonomy
