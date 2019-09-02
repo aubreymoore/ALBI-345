@@ -1,6 +1,6 @@
-Title: Lecture 23: Urban Entomology
+Title: Topics Covered Since Exam 1
 Date: 2019-06-06 10:00
-Tags: lecture
+Tags: unused
 
 
 # Topics Covered Since Exam 1

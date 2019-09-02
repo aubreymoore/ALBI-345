@@ -1,6 +1,6 @@
-Title: Lecture 26: Insects as a Human Food Source
+Title: Lecture 26: Forensic Entomology
 Date: 2019-06-06 10:00
-Tags: lecture
+Tags: unused
 
 
 Video: Crime Scene Creatures

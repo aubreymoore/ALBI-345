@@ -1,6 +1,6 @@
-Title: Lecture 28: TBD
+Title: Lecture 28: Insects as Food
 Date: 2019-06-06 10:00
-Tags: lecture
+Tags: unused
 
 
 

@@ -1,6 +1,6 @@
-Title: Lecture 22: Economic Entomology and Pest Control
+Title: First Detector Training
 Date: 2019-06-06 10:00
-Tags: lecture
+Tags: unused
 
 
 Handout: [National Plant Diagnostic Network First Detector Training On-line Modules](/pdfs/FirstDetectorTraining.pdf)

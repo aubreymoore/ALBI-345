@@ -1,3 +1,3 @@
-Title: Lecture  12: Insect Orders with Incomplete Metamorphosis II - Review for Exam 1
-Date: 2019-06-06 10:00
+Title: Lecture  12: Taking to the Air
+Date: 2019-10-01 11:00
 Tags: lecture

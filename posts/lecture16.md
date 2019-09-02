@@ -1,5 +1,5 @@
 Title: Lecture 16: Insect Ecology - Insect Population Dynamics
-Date: 2019-06-06 10:00
+Date: 2019-11-19 11:00
 Tags: lecture
 
 

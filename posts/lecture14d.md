@@ -1,5 +1,5 @@
 Title: Lecture 14d:  Insect Population Dynamics 1
-Date: 2019-06-06 10:00
+Date: 2019-10-17 11:00
 Tags: lecture
 
 ## Exponential Growth

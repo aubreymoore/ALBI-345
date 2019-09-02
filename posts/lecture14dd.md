@@ -1,5 +1,5 @@
 Title: Lecture 14dd:  Insect Population Dynamics 2
-Date: 2019-06-06 10:00
+Date: 2019-10-22 11:00
 Tags: lecture
 
 In this lecture period, we model population dynamics of the coconut rhinoceros

@@ -1,5 +1,5 @@
 Title: Lecture 19: Mimicry
-Date: 2019-06-06 10:00
+Date: 2019-12-03 11:00
 Tags: lecture
 
 [Mimicry (PPT)](/pdfs/ent 101 mimicry.ppt)

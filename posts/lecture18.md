@@ -1,5 +1,5 @@
 Title: Lecture 18: Applied Entomology
-Date: 2019-06-06 10:00
+Date: 2019-11-26 11:00
 Tags: lecture
 
 <!---

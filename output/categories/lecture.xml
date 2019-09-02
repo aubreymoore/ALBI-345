@@ -1,31 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about lecture)</title><link>https://aubreymoore.github.io/ALBI-345/output/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/output/categories/lecture.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Sun, 01 Sep 2019 21:16:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture 5: External Insect Morphology</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture-5-insect-morphology-inside-and-out/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;The material in this lecture is covered by a chapter in your Field Guide:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about lecture)</title><link>https://aubreymoore.github.io/ALBI-345/output/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/output/categories/lecture.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Mon, 02 Sep 2019 02:44:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>EXAM 3</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/exam-3/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;!--
+.. title: EXAM 3
+.. slug: exam-3
+.. date: 2019-12-12 11:00
+.. tags: lecture
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/exam-3/</guid><pubDate>Thu, 12 Dec 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 19: Mimicry</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture19/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/ent%20101%20mimicry.ppt"&gt;Mimicry (PPT)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is an excellent &lt;a href="https://en.wikipedia.org/wiki/Mimicry"&gt;Wikipedia article on mimicry&lt;/a&gt;. Well worth reading.&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture19/</guid><pubDate>Tue, 03 Dec 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 18: Applied Entomology</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture18/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;!---
+[Pollination (PPT)](/pdfs/pollination.ppt)
+---&gt;
+
+&lt;p&gt;Lecture: Applied Entomology &lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/applied-ent.ppt"&gt;PPT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zombie parasites &lt;a href="https://youtu.be/3n4kt-hOpzc"&gt;YouTube video; 24 m&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture18/</guid><pubDate>Tue, 26 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 17: Insect Ecology - Pollination</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture17/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/social%20insects.ppt"&gt;Social Insects (PPT)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/1095honey.ppt"&gt;Honey Bees (PPT)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/IB10932KillerBee.ppt"&gt;Killer Bees (PPT)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture17/</guid><pubDate>Thu, 21 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 16: Insect Ecology - Insect Population Dynamics</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture16/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;!---
+A lecture on Semiochemicals originally scheduled for this time slot.
+--&gt;
+
+&lt;h3&gt;Exponential Growth&lt;/h3&gt;
+&lt;p&gt;dN/dt = rN&lt;/p&gt;
+&lt;p&gt;where:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;The Structure of Insects p. 29&lt;/li&gt;
+&lt;li&gt;r is the intrinsic growth rate: (births - deaths)/N&lt;/li&gt;
+&lt;li&gt;N is the population size&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;PowerPoint Presentation:&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/AG345%20ext%20morph%202003%20(Zack).ppt"&gt;External Morphology&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture-5-insect-morphology-inside-and-out/</guid><pubDate>Thu, 05 Sep 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 4: Invasion of the Land</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture04/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;Video:&lt;/h4&gt;
-&lt;p&gt;Life in the Undergrowth - Segment 1 - Invasion of the Land&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture04/</guid><pubDate>Tue, 03 Sep 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 3: Insect Biodiversity in Micronesia</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture03/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;Handout:&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/InsectBiology.pdf"&gt;Our Island's Insects and Their Relatives&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Insects of Micronesia&lt;/h4&gt;
-&lt;p&gt;&lt;a href="http://hbs.bishopmuseum.org/pubs-online/iom.html"&gt;http://hbs.bishopmuseum.org/pubs-online/iom.html&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;iNaturalist&lt;/h4&gt;
-&lt;p&gt;&lt;a href="http://iNaturalist.org"&gt;http://iNaturalist.org&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture03/</guid><pubDate>Thu, 29 Aug 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 2: Insect Biodiversity and Taxonomy</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture02/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;Short video on taxonomy&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?feature=player_embedded&amp;amp;v=mwuASmP7TfU"&gt;&lt;img alt="XXX" src="https://aubreymoore.github.io/ALBI-345/output/images/PlanetBob.png"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/nomenclature.pdf"&gt;Insect Biodiversity and Taxonomy&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;TED talk on beetles&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/ZGcu8WwheUU"&gt;&lt;img alt="XXX" src="https://aubreymoore.github.io/ALBI-345/output/images/MaxBarclay.png"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture02/</guid><pubDate>Tue, 27 Aug 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 1: Introduction to Entomology</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;After introducing ourselves, we watched a DVD entitled &lt;a href="https://www.rainbowresource.com/proddtl.php?id=003598&amp;amp;subject=Science/11&amp;amp;category=Eyewitness+Science+DVDs+%2F+Videos/2920"&gt;Insect&lt;/a&gt;.&lt;/p&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture01/</guid><pubDate>Thu, 22 Aug 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 6: Internal insect Morphology</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture-6-internal-insect-morphology/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;PowerPoint Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/AG345%20internal%20morph%202003%20(Zack).ppt"&gt;Internal Morphology&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Handout&lt;/h4&gt;
-&lt;p&gt;Downloaded from &lt;a href="http://web.csulb.edu/~dlunderw/entomology/7-8-Internalanatomy-phy.pdf"&gt;http://web.csulb.edu/~dlunderw/entomology/7-8-Internalanatomy-phy.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/intAnatomy.pdf"&gt;Internal Anatomy and Physiology&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture-6-internal-insect-morphology/</guid><pubDate>Thu, 06 Jun 2019 00:00:00 GMT</pubDate></item><item><title>Lecture 7: Metamorphosis</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture07/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;PowerPoint Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/understanding%20insect%20life%20cycles.ppt"&gt;Understanding Insect Life Cycles&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Reference&lt;/h4&gt;
-&lt;p&gt;Refer to the chapter &lt;em&gt;The Growth and Development of Insects&lt;/em&gt; in your field guide.&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture07/</guid><pubDate>Thu, 06 Jun 2019 00:00:00 GMT</pubDate></item><item><title>Lecture 8: Insect Orders with Complete Metamorphosis</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture08/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture08/</guid><pubDate>Thu, 06 Jun 2019 00:00:00 GMT</pubDate></item><item><title>Lecture 9: Orders with Complete Metamorphosis</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture09/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;PowerPoint Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/Orders%20with%20Complete%20Metamorphosis.ppt"&gt;Orders with Complete Metamorphosis&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;References&lt;/h4&gt;
-&lt;p&gt;Pages 140-362 in your field guide (Neuroptera - Hymenoptera)&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture09/</guid><pubDate>Thu, 06 Jun 2019 00:00:00 GMT</pubDate></item><item><title>Lecture 10:  Orders with Incomplete Metamorphosis</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture10/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;PowerPoint Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/Orders%20with%20Incomplete%20Metamorphosis.ppt"&gt;Orders with Incomplete Metamorphosis&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;References&lt;/h4&gt;
-&lt;p&gt;Pages 60-139 (Proturans - Homoptera) in your field guide.&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture10/</guid><pubDate>Thu, 06 Jun 2019 00:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=c6pcRR5Uy6w"&gt;Exponential Growth (YouTube; 10 minutes)&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Logistic Growth&lt;/h3&gt;
+&lt;p&gt;dN/dt = rN((K-N)/K)&lt;/p&gt;
+&lt;p&gt;where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;K is the carrying capacity, the maximum population size that can be sustained by the environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rXlyYFXyfIM"&gt;Logistic Growth (YouTube; 11 minutes)&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Building a simple computer model of logistic growth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;r and K Selection&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;r selected organisms produce many offspring = a high reproduction rate (r)&lt;/li&gt;
+&lt;li&gt;K selected organisms produce few offspring, but put significant resources into ensuring their survival&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Bu6ouKt9zhs"&gt;r/K Selection(YouTube; 7 minutes)&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Simulating Coconut Rhinoceros Population Dynamics&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/crb_population_dynamics.ipynb"&gt;An interactive Jupyter notebook which explores coconut rhinoceros beetle is available here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Lotka-Volterra Model of Interspecific Competition&lt;/h3&gt;
+&lt;p&gt;The Lotka-Volterra model is used to calculate changes in the populations of two interacting populations
+such as a predator and its prey, or an insect and its parasitoid.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/Lotka-Volterra-Model.ipynb"&gt;An interactive Jupyter notebook which explores the Lotka-Volterra model is available here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/output/pdfs/Lotka-Volterra-Model.html"&gt;Handout: Lotka-Volterra Model&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture16/</guid><pubDate>Tue, 19 Nov 2019 01:00:00 GMT</pubDate></item><item><title>GUEST LECTURE 2</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/guest-lecture-2/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/guest-lecture-2/</guid><pubDate>Thu, 14 Nov 2019 01:00:00 GMT</pubDate></item><item><title>GUEST LECTURE 1</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/guest-lecture/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;!--
+.. title: GUEST LECTURE 1
+.. slug: guest-lecture
+.. date: 2019-11-12 11:00
+.. tags: lecture
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+--&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/guest-lecture/</guid><pubDate>Tue, 12 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 20: EXAM 2</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture20/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture20/</guid><pubDate>Thu, 07 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 15: Insect Ecology - Semiochemicals</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture15/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture15/</guid><pubDate>Tue, 05 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 14g:  Presentation: Impact of Climate Change on Coconut Rhinoceros Beetle  Outbreaks in the Pacific</title><link>https://aubreymoore.github.io/ALBI-345/output/blog/lecture14g/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;span&gt;&lt;/span&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/output/blog/lecture14g/</guid><pubDate>Thu, 31 Oct 2019 01:00:00 GMT</pubDate></item></channel></rss>

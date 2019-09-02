@@ -14,5 +14,5 @@ cache/posts/lab04.html
 cache/posts/lab03.html
 cache/posts/lab02.html
 cache/posts/lab01.html
-/usr/local/lib/python3.7/site-packages/nikola/data/themes/base/templates/post_list_directive.tmpl
+/usr/local/lib/python3.7/site-packages/nikola/data/themes/base-jinja/templates/post_list_directive.tmpl
 ####MAGIC####TIMELINE

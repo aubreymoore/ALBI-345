@@ -1,6 +1,6 @@
-Title: Lecture 25: Forensic Entomology
+Title: Lecture 25: Urban Entomology
 Date: 2019-06-06 10:00
-Tags: lecture
+Tags: unused
 
 
 [PowerPoint Presentation: Urban Entomology](/pdfs/urban entomology.ppt)

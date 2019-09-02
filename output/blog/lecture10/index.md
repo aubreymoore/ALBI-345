@@ -1,5 +1,5 @@
-Title: Lecture 10:  Orders with Incomplete Metamorphosis
-Date: 2019-06-06 10:00
+Title: Lecture 10:  Orders with Incomplete Metamorphosis 1
+Date: 2019-09-24 11:00
 Tags: lecture
 
 ### PowerPoint Presentation
