@@ -1,14 +1,15 @@
+<!--
 title.. Resources
 stub.. Resources
-date.. 2015-10-01
+date.. 2019-09-02
+-->
 
-* [Exit Strategy](/exit_strategy.pdf)
+* [Syllabus](/syllabus/ALBI345F19-syllabus.pdf)
 
 * [Report Template on Open Science Framework](https://osf.io/az2vq/)
 
 * [First Detector Training](https://firstdetector.org/static/index.html)
 
-* [Syllabus](/ALBI345F17-syllabus.pdf)
 
 ## Past Exams
 * [Exam1 2013](/pdfs/Exam 1.pdf)
