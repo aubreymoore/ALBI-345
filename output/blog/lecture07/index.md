@@ -8,3 +8,5 @@ Tags: lecture
 
 ### Reference
 Refer to the chapter *The Growth and Development of Insects* in your field guide.
+
+![Gary Larson's immatures](/images/larson-immatures.jpg)
