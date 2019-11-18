@@ -12,7 +12,7 @@ To edit the site, I run **nikola** in a **docker** container.
 ### Notes ###
 
 * When the above command line is run for the first time, my **aubreymoore/nikola** docker image will be downloaded from **dockerhub**. On subsequent runs, a container will be started using the downloaded image stored on my local machine.
-* The **-v** argument loads the site as a **docker volume**. This allows me to use any edit using any software installed on my local machine. Once edits are done, rebuild the site using **docker build**. I can then preview the site in my browser at **127.0.0.1:8008**.
+* The **-v** argument loads the site as a **docker volume**. This allows me to edit the site using any software installed on my local machine. Once edits are done, rebuild the site using **nikola build**. I can then preview the site in my browser at **127.0.0.1:8008**.
 * When finished editing, I type **exit** to leave the container. I then use **git** to commit and push as usual.
 
       git status
