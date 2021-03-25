@@ -51,7 +51,7 @@ Pyphen==0.9.4
 PyRSS2Gen==1.1
 python-dateutil==2.6.1
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 requests==2.18.4
 simplegeneric==0.8.1
