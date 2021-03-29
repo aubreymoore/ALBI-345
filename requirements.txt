@@ -45,7 +45,7 @@ Pillow==4.2.1
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pygal==2.4.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyinotify==0.9.6
 Pyphen==0.9.4
 PyRSS2Gen==1.1
