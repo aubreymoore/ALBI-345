@@ -7,30 +7,26 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://aubreymoore.github.io/ALBI-345/output/categories/cat_blog.xml</loc>
-  <lastmod>2019-11-18T19:53:00Z</lastmod>
+  <lastmod>2021-08-19T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aubreymoore.github.io/ALBI-345/output/categories/lab.xml</loc>
-  <lastmod>2019-09-01T21:16:00Z</lastmod>
+  <lastmod>2021-08-19T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aubreymoore.github.io/ALBI-345/output/categories/lecture.xml</loc>
-  <lastmod>2019-11-18T19:53:00Z</lastmod>
+  <lastmod>2021-08-19T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aubreymoore.github.io/ALBI-345/output/categories/unused.xml</loc>
-  <lastmod>2019-11-18T19:53:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://aubreymoore.github.io/ALBI-345/output/galleries/rss.xml</loc>
-  <lastmod>2019-09-01T19:35:00Z</lastmod>
+  <lastmod>2021-08-19T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aubreymoore.github.io/ALBI-345/output/rss.xml</loc>
-  <lastmod>2019-11-18T19:53:00Z</lastmod>
+  <lastmod>2021-08-19T19:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aubreymoore.github.io/ALBI-345/output/sitemap.xml</loc>
-  <lastmod>2019-11-18T19:53:00Z</lastmod>
+  <lastmod>2021-08-19T19:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
