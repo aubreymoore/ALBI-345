@@ -1,8 +1,5 @@
-<!--
-title.. Resources
-stub.. Resources
-date.. 2019-09-02
--->
+.. title Resources
+.. stub Resources
 
 * [Syllabus](/syllabus/ALBI345F19-syllabus.pdf)
 * [Report Template on Open Science Framework](https://osf.io/az2vq/)
