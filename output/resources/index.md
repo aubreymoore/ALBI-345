@@ -5,11 +5,7 @@ date.. 2019-09-02
 -->
 
 * [Syllabus](/syllabus/ALBI345F19-syllabus.pdf)
-
 * [Report Template on Open Science Framework](https://osf.io/az2vq/)
-
-* [First Detector Training](https://firstdetector.org/static/index.html)
-
 
 ## Past Exams
 * [Exam1 2013](/pdfs/Exam 1.pdf)
