@@ -49,6 +49,8 @@ Access the label printer at <http://guaminsects.net/iNatLabels/>.
 ### Global
 * **[GBIF | Global Biodiversity Information Facility](https://www.gbif.org/)**
 
-### [Life in the Undergrowth](https://www.amazon.com/gp/video/detail/B003ULY4GW/ref=dv_web_wtls_list_pr_1)
+### Online Videos
 
-### [Harvest of Fear](https://www.youtube.com/playlist?list=PLCru93WgymzWkBAbD1M36XbokuD8Ep5CG)
+* [Life in the Undergrowth](https://www.amazon.com/gp/video/detail/B003ULY4GW/ref=dv_web_wtls_list_pr_1)
+* [Harvest of Fear](https://www.youtube.com/playlist?list=PLCru93WgymzWkBAbD1M36XbokuD8Ep5CG)
+* Guam Forest Video
