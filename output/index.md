@@ -27,6 +27,11 @@ h2, .h2 {
 <h2>Instructor: Dr. Aubrey Moore</h2>
 </div>
 
+<div>
+<a href="syllabus/ALBI345F21-syllabus.pdf"> Syllabus (PDF)</a> &nbsp;
+<a href="schedule.html">Schedule</a>
+</div>
+
 <style type="text/css" media="screen">
 .inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
 .inat-widget-header {margin-bottom: 10px;}
@@ -44,9 +49,6 @@ h2, .h2 {
 .inat-widget td.inat-user-body {vertical-align: middle;}
 .inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
 </style>
-
-<a href="syllabus/ALBI345F21-syllabus.pdf"> Syllabus (PDF)</a> &nbsp;
-<a href="schedule.html">Schedule</a>
 
 <div class="inat-widget">
     <div class="inat-widget-header"><a href="https://www.inaturalist.org"><img alt="iNaturalist.org" src="https://static.inaturalist.org/sites/1-logo.png?1433365372" /></a></div>

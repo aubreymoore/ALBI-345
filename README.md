@@ -7,7 +7,9 @@ The site is publicly available on **github pages** at https://aubreymoore.github
 ## Editing the Site ##
 To edit the site, I run **nikola** in a **docker** container.
 
-    docker run -ti -p 127.0.0.1:8008:8000 -v /home/aubrey/ALBI-345:/ALBI-345 aubreymoore/nikola
+    sudo docker run -ti -p 127.0.0.1:8008:8000 -v /home/aubrey/ALBI-345:/ALBI-345 aubreymoore/nikola
+    cd ALBI-345
+    git config credential.helper store
 
 ### Notes ###
 
