@@ -45,7 +45,7 @@ h2, .h2 {
 .inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
 </style>
 
-<a href="ALBI-345/files/schedule.html">Schedule</a>&nsbp;&nsbp;&nsbp;<a href="ALBI-345/files/syllabus.pdf"><Syllabus (PDF)</a>
+<a href="schedule.html">Schedule</a>&nbsp;&nbsp;&nbsp;<a href="syllabus.pdf"><Syllabus (PDF)</a>
 
 <div class="inat-widget">
     <div class="inat-widget-header"><a href="https://www.inaturalist.org"><img alt="iNaturalist.org" src="https://static.inaturalist.org/sites/1-logo.png?1433365372" /></a></div>
