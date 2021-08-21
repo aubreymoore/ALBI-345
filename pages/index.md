@@ -45,7 +45,7 @@ h2, .h2 {
 .inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
 </style>
 
-<a href="ALBI345-syllabus.pdf"> Syllabus (PDF)</a> &nbsp;
+<a href="syllabus/ALBI345-syllabus.pdf"> Syllabus (PDF)</a> &nbsp;
 <a href="schedule.html">Schedule</a>
 
 <div class="inat-widget">
