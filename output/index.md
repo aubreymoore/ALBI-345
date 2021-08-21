@@ -25,7 +25,6 @@ h2, .h2 {
 <h1>AL/BI 345 - General Entomology</h1>
 <h2>Fanuchanan (Fall) Semester 2021</h2>
 <h2>Instructor: Dr. Aubrey Moore</h2>
-<a href="ALBI-345/files/schedule.html">Schedule</a>&nsbp;&nsbp;&nsbp;<a href="ALBI-345/files/syllabus.pdf"><Syllabus (PDF)</a>
 </div>
 
 <style type="text/css" media="screen">
@@ -45,6 +44,9 @@ h2, .h2 {
 .inat-widget td.inat-user-body {vertical-align: middle;}
 .inat-widget .inat-footer td.inat-value {vertical-align: middle; padding-left: 10px;}
 </style>
+
+<a href="ALBI-345/files/schedule.html">Schedule</a>&nsbp;&nsbp;&nsbp;<a href="ALBI-345/files/syllabus.pdf"><Syllabus (PDF)</a>
+
 <div class="inat-widget">
     <div class="inat-widget-header"><a href="https://www.inaturalist.org"><img alt="iNaturalist.org" src="https://static.inaturalist.org/sites/1-logo.png?1433365372" /></a></div>
   <script type="text/javascript" charset="utf-8" src="https://www.inaturalist.org/observations/project/1627.widget?layout=small&limit=63&order=desc&order_by=observed_on"></script>
