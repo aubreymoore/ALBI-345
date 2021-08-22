@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/</loc>
-  <lastmod>2021-08-21T07:23:00Z</lastmod>
+  <lastmod>2021-08-22T09:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/2017/</loc>
@@ -18,16 +18,20 @@
   <lastmod>2021-08-19T19:06:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aubreymoore.github.io/ALBI-345/2021/</loc>
+  <lastmod>2021-08-22T09:42:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aubreymoore.github.io/ALBI-345/about/</loc>
   <lastmod>2021-08-19T19:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/archive.html</loc>
-  <lastmod>2021-08-21T09:25:00Z</lastmod>
+  <lastmod>2021-08-22T09:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/</loc>
-  <lastmod>2021-08-19T19:06:00Z</lastmod>
+  <lastmod>2021-08-22T09:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/exam-3/</loc>
@@ -63,7 +67,7 @@
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/index-5.html</loc>
-  <lastmod>2021-08-21T09:25:00Z</lastmod>
+  <lastmod>2021-08-22T09:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/lab01/</loc>
@@ -256,6 +260,10 @@
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/lecture28/</loc>
   <lastmod>2021-08-19T19:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aubreymoore.github.io/ALBI-345/blog/research-project-ideas/</loc>
+  <lastmod>2021-08-22T09:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/test-ipynb/</loc>
