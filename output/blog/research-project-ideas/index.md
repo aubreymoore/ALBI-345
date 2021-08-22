@@ -13,3 +13,4 @@
 * Pick a plant species and find all insects associated with it.
 * What species insects are found in mud nests? For each nest, determine the species of the mud dauber, the prey items, and parasitoids.
 * Are there fewer flying insect on the windward side of the island than the leeward side?
+* Insects visiting extrafloral nectaries
