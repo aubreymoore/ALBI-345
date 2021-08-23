@@ -9,14 +9,12 @@ Revised 2021-08-23
 ---
 ## Presentation (PDF): [Insect Biodiversity and Taxonomy](/pdfs/nomenclature.pdf)
 ---
-## Reference: Interesting article on global insect biomass
-[Which weighs more: all of the people or all of the bugs?](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/)
-
-Warning, the following image may be disturbing to some viewers.<br>
-[x](/images/human-goo.jpg)
-
-<a href="/files/images/human_goo.jpg">Visualization of global human biomass.</a>
-[Source](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human))
+## Reference: Global insect biomass
+A four-year old asked "Which weighs more: all of the people or all of the bugs?".
+The answer is given in an interesting [online article](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/).
+Another recent online article presents a rather disturbing
+[visualization of the total biomass of our own species]
+(https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human).
 
 ## Video: TED talk on beetles by Max Barclay
 [![VIDEO: Max Barclay talks about beetles](/images/MaxBarclay.png)](https://youtu.be/ZGcu8WwheUU)
