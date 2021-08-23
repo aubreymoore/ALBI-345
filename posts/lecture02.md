@@ -13,8 +13,7 @@ Revised 2021-08-23
 A four-year old asked "Which weighs more: all of the people or all of the bugs?".
 The answer is given in an interesting [online article](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/).
 Another recent online article presents a rather disturbing
-[visualization of the total biomass of our own species]
-(https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human).
+[visualization of the total biomass of our own species](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human).
 
 ## Video: TED talk on beetles by Max Barclay
 [![VIDEO: Max Barclay talks about beetles](/images/MaxBarclay.png)](https://youtu.be/ZGcu8WwheUU)
