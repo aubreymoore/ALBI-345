@@ -9,3 +9,6 @@
 
 .. post-list::
    :tags: lecture
+   :reverse:
+
+   Scroll down for links to 2021 lectures
