@@ -4,14 +4,15 @@ Tags: lecture
 
 Revised 2021-08-23
 
-* [![VIDEO: Planet Bob](/images/PlanetBob.png)](https://www.youtube.com/watch?feature=player_embedded&v=mwuASmP7TfU)
-* [PRESENTATION (PDF): Insect Biodiversity and Taxonomy](/pdfs/nomenclature.pdf)
+## [![VIDEO: Planet Bob](/images/PlanetBob.png)](https://www.youtube.com/watch?feature=player_embedded&v=mwuASmP7TfU)
+## [PRESENTATION (PDF): Insect Biodiversity and Taxonomy](/pdfs/nomenclature.pdf)
 
 ## Global insect biomass
-* [Which weighs more: all of the people or all of the bugs?](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/)
-    * Here is an interesting ![visualization of global human biomass](/images/human_goo.jpg) ([Source](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human))
+### [Which weighs more: all of the people or all of the bugs?](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/)
+Here is an interesting ![visualization of global human biomass](/images/human_goo.jpg) ([Source](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human))
 
-* [![VIDEO: Max Barclay talks about beetles](/images/MaxBarclay.png)](https://youtu.be/ZGcu8WwheUU)
+## Beetles Rule!
+[![VIDEO: Max Barclay talks about beetles](/images/MaxBarclay.png)](https://youtu.be/ZGcu8WwheUU)
 
 ## Insect Diversity in the Mariana Islands
 [REFERENCE (PDF): Our Island's Insects and Their Relatives](/pdfs/InsectBiology.pdf)
