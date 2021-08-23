@@ -1,8 +1,6 @@
 Title: Lecture 2: Insect Biodiversity and Taxonomy
-Date: 2019-08-27 11:00
+Date: 2021-09-23 12:45
 Tags: lecture
-
-Revised 2021-08-23
 
 ## Video: Planet Bob
 [![Planet Bob](/images/PlanetBob.png)](https://www.youtube.com/watch?feature=player_embedded&v=mwuASmP7TfU)
