@@ -9,7 +9,7 @@ Revised 2021-08-23
 
 ## Global insect biomass
 * [Which weighs more: all of the people or all of the bugs?](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/)
-    * Here is an interesting visualization of globalhuman biomass ([Source](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human))
+    * Here is an interesting [visualization of global human biomass](/images/human_goo.jpg) ([Source](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human))
 
 * [![VIDEO: Max Barclay talks about beetles](/images/MaxBarclay.png)](https://youtu.be/ZGcu8WwheUU)
 
