@@ -13,8 +13,7 @@ Revised 2021-08-23
 ## Reference: Interesting article on global insect biomass
 [Which weighs more: all of the people or all of the bugs?](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/)
 
-Warning, the following may be disturbing to some viewers.
-
+Warning, the following may be disturbing to some viewers.  
 [Visualization of global human biomass](/images/human_goo.jpg) ([Source](https://futurism.com/disturbing-simulation-shows-what-would-happen-if-you-blended-up-every-living-human))
 
 ## Video: Beetles Rule!
