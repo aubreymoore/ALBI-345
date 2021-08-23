@@ -29,7 +29,7 @@ h2, .h2 {
 
 <div>
 <a href="syllabus/ALBI345F21-syllabus.pdf"> Syllabus (PDF)</a> &nbsp;
-<a href="schedule.html">Schedule</a>
+<a href="syllabus/schedule.html">Schedule</a>
 </div>
 
 <style type="text/css" media="screen">
