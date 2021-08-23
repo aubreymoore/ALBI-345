@@ -8,5 +8,4 @@
 .. type: text
 
 .. post-list::
-   :reverse:
    :tags: lecture
