@@ -137,10 +137,10 @@ NAVIGATION_LINKS = {
 #        ("/archive.html", "Archive"),
 #        ("/categories/", "Tags"),
 #        ("/rss.xml", "RSS feed"),
-        ("/resources", "Resources"),
-        ("/lecture_list", "Lectures"),
-        ("/lab_list", "Labs"),
-        ("/about", "About"),
+        ("/resources/index.html", "Resources"),
+        ("/lecture_list/index.html", "Lectures"),
+        ("/lab_list/index.html", "Labs"),
+        ("/about/index.html", "About"),
     ),
 }
 
