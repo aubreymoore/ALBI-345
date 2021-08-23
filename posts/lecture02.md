@@ -7,8 +7,7 @@ Revised 2021-08-23
 ## Video: Planet Bob
 [![Planet Bob](/images/PlanetBob.png)](https://www.youtube.com/watch?feature=player_embedded&v=mwuASmP7TfU)
 
-## Presentation: Insect Biodiversity and Taxonomy
-[PDF](/pdfs/nomenclature.pdf)
+## Presentation (PDF): [Insect Biodiversity and Taxonomy](/pdfs/nomenclature.pdf)
 
 ## Reference: Interesting article on global insect biomass
 [Which weighs more: all of the people or all of the bugs?](https://fivethirtyeight.com/features/the-bugs-of-the-world-could-squish-us-all/)
