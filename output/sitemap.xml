@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/</loc>
-  <lastmod>2021-08-23T21:24:00Z</lastmod>
+  <lastmod>2021-08-24T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/2017/</loc>
@@ -20,6 +20,10 @@
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/2021/</loc>
   <lastmod>2021-08-22T09:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aubreymoore.github.io/ALBI-345/2021_lecture_list/</loc>
+  <lastmod>2021-08-24T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/about/</loc>

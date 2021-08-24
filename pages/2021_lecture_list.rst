@@ -1,5 +1,5 @@
 .. title: 2021 Lectures
-.. slug: lecture_list
+.. slug: 2021_lecture_list
 .. date: 2017-08-19 17:26:11 UTC+10:00
 .. tags:
 .. category:
