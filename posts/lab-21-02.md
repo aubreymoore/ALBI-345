@@ -26,3 +26,9 @@ We will use the [iNaturalist Insects of Micronesia project](https://www.inatural
 # References
 * Peterson Insect Field Guide
 * [Insect Collection and Preserving Insects and Mites: Tools and Techniques](/pdfs/collpres.pdf)
+
+![](/images/pinning-position.png)
+
+![](/images/pinning-problems.png)
+
+![](/images/pinning-double.png)
