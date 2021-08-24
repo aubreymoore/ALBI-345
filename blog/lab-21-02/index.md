@@ -1,6 +1,6 @@
 <!--
 .. title: Lab 21-01: Intro to insect collecting - tools of the trade
-.. slug: lab-21-01
+.. slug: lab-21-02
 .. date: 2021-08-25 14:20:00 UTC+10:00
 .. tags: lab
 .. category:
