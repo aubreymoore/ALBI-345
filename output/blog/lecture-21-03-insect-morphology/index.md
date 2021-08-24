@@ -16,14 +16,9 @@ The material in this lecture is covered by a chapter in your Field Guide:
 * The Structure of Insects p. 29
 
 ### PowerPoint Presentation:
-[External Morphology](/pdfs/AG345 ext morph 2003 (Zack).ppt)
+### [External Morphology](/pdfs/AG345 ext morph 2003 (Zack).ppt)
 
 # Internal Morphology
 
 ### PowerPoint Presentation
 [Internal Morphology](/pdfs/AG345 internal morph 2003 (Zack).ppt)
-
-### Handout
-Downloaded from <http://web.csulb.edu/~dlunderw/entomology/7-8-Internalanatomy-phy.pdf>
-
-[Internal Anatomy and Physiology](/pdfs/intAnatomy.pdf)
