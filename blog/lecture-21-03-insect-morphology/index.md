@@ -20,3 +20,7 @@ The material in this lecture is covered by a chapter in your Field Guide:
 # Internal Morphology
 
 [PowerPoint Presentation: Internal Morphology](/pdfs/AG345 internal morph 2003 (Zack).ppt)
+
+# References
+
+[Our Island's Insects and Their Relatives](/pdfs/InsectBiology.pdf)
