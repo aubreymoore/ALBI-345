@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about blog)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/cat_blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Aug 2021 06:56:06 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture 21-03: Insect morphology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-03-insect-morphology/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;img alt="" src="https://aubreymoore.github.io/ALBI-345/images/ants-and-a-bugs-life.jpg"&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about blog)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/cat_blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Aug 2021 23:05:18 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lab 21-01: Intro to insect collecting - tools of the trade</title><link>https://aubreymoore.github.io/ALBI-345/blog/lab-21-01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h2&gt;Visit to UOG Insect Collection&lt;/h2&gt;
+&lt;h2&gt;Basic Insect Collecting and Preservation Techniques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Collecting equipment: nets, aspirators, killing jars&lt;/li&gt;
+&lt;li&gt;Pinning equipment: collection box, pins, paper points, pinning blocks, glassine envelopes, spreading boards, moth balls, labels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;First Collecting Experience&lt;/h2&gt;
+&lt;p&gt;Will collect one or two insects (adults only; no soft-bodied specimens), kill them, pin them, and label them.&lt;/p&gt;
+&lt;h2&gt;Using iNaturalist&lt;/h2&gt;
+&lt;p&gt;We will use the &lt;a href="https://www.inaturalist.org/projects/insects-of-micronesia"&gt;iNaturalist Insects of Micronesia project&lt;/a&gt; to compile a catalog for our collections.&lt;/p&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Peterson Insect Field Guide&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/collpres.pdf"&gt;Insect Collection and Preserving Insects and Mites: Tools and Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>lab</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lab-21-01/</guid><pubDate>Wed, 25 Aug 2021 04:20:00 GMT</pubDate></item><item><title>Lecture 21-03: Insect morphology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-03-insect-morphology/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;img alt="" src="https://aubreymoore.github.io/ALBI-345/images/ants-and-a-bugs-life.jpg"&gt;&lt;/p&gt;
 &lt;h2&gt;External morphology&lt;/h2&gt;
 &lt;p&gt;The material in this lecture is covered by a chapter in your Field Guide:&lt;/p&gt;
 &lt;ul&gt;
@@ -84,9 +98,4 @@ A lecture on Semiochemicals originally scheduled for this time slot.
 &lt;p&gt;The Lotka-Volterra model is used to calculate changes in the populations of two interacting populations
 such as a predator and its prey, or an insect and its parasitoid.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/Lotka-Volterra-Model.ipynb"&gt;An interactive Jupyter notebook which explores the Lotka-Volterra model is available here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/Lotka-Volterra-Model.html"&gt;Handout: Lotka-Volterra Model&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture16/</guid><pubDate>Tue, 19 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 26: Forensic Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture26/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;Video&lt;/h4&gt;
-&lt;p&gt;Crime Scene Creatures&lt;/p&gt;
-&lt;h4&gt;Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/GCCForensicEntBeamer2.pdf"&gt;Forensic Entomology Research on Guam&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;Additional Material&lt;/h4&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6NMy14e5SYE"&gt;YouTube Video: Murder maggots and mayhem: an introduction to forensic entomology&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture26/</guid><pubDate>Tue, 19 Nov 2019 01:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/Lotka-Volterra-Model.html"&gt;Handout: Lotka-Volterra Model&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture16/</guid><pubDate>Tue, 19 Nov 2019 01:00:00 GMT</pubDate></item></channel></rss>

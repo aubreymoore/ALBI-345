@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
 #        ("/rss.xml", "RSS feed"),
         ("/resources/index.html", "Resources"),
         ("/2021_lecture_list/index.html", "Lectures"),
-        ("/lab_list/index.html", "Labs"),
+        ("/2021_lab_list/index.html", "Labs"),
         ("/about/index.html", "About"),
     ),
 }
