@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+![](images/ants and a bugs life.jpg)
+
 # External morphology
 
 The material in this lecture is covered by a chapter in your Field Guide:
