@@ -1,7 +1,7 @@
 <!--
 .. title: Research project ideas
 .. slug: research-project-ideas
-.. date: 2021-08-22 19:27:04 UTC+10:00
+.. date: 2021-08-24
 .. tags:
 .. category:
 .. link:
