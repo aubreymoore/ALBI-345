@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-![](images/ants-and-a-bugs-life.jpg)
+![x](images/ants-and-a-bugs-life.jpg)
 
 # External morphology
 
