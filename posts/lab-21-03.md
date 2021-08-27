@@ -3,10 +3,9 @@ Date: 2021-09-01 14:20:00 UTC+10:00
 Tags: lab
 
 * Preparing images of insects for iNaturalist
+* Printing pin labels
 * Spreading wings of Lepidoptera
 * Pointing small Insects
-
-
 
 # Visit to UOG Insect Collection
 
@@ -25,6 +24,7 @@ We will use the [iNaturalist Insects of Micronesia project](https://www.inatural
 # References
 * Peterson Insect Field Guide
 * [Insect Collection and Preserving Insects and Mites: Tools and Techniques](/pdfs/collpres.pdf)
+* [Butterflies of Micronesia](http://guaminsects.myspecies.info/sites/guaminsects.myspecies.info/files/ButterfliesOfMicronesia.pdf)
 
 ![](/images/pinning-position.png)
 

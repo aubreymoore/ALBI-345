@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345</title><link>https://aubreymoore.github.io/ALBI-345/</link><description>This is a demo site for Nikola.</description><atom:link href="https://aubreymoore.github.io/ALBI-345/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Fri, 27 Aug 2021 21:26:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lab 20-03</title><link>https://aubreymoore.github.io/ALBI-345/blog/lab-21-03/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;ul&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345</title><link>https://aubreymoore.github.io/ALBI-345/</link><description>This is a demo site for Nikola.</description><atom:link href="https://aubreymoore.github.io/ALBI-345/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Fri, 27 Aug 2021 21:32:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lab 20-03</title><link>https://aubreymoore.github.io/ALBI-345/blog/lab-21-03/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;ul&gt;
 &lt;li&gt;Preparing images of insects for iNaturalist&lt;/li&gt;
+&lt;li&gt;Printing pin labels&lt;/li&gt;
 &lt;li&gt;Spreading wings of Lepidoptera&lt;/li&gt;
 &lt;li&gt;Pointing small Insects&lt;/li&gt;
 &lt;/ul&gt;
@@ -18,6 +19,7 @@
 &lt;ul&gt;
 &lt;li&gt;Peterson Insect Field Guide&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/collpres.pdf"&gt;Insect Collection and Preserving Insects and Mites: Tools and Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://guaminsects.myspecies.info/sites/guaminsects.myspecies.info/files/ButterfliesOfMicronesia.pdf"&gt;Butterflies of Micronesia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img alt="" src="https://aubreymoore.github.io/ALBI-345/images/pinning-position.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://aubreymoore.github.io/ALBI-345/images/pinning-problems.png"&gt;&lt;/p&gt;
