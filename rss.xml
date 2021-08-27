@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345</title><link>https://aubreymoore.github.io/ALBI-345/</link><description>This is a demo site for Nikola.</description><atom:link href="https://aubreymoore.github.io/ALBI-345/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Tue, 24 Aug 2021 23:32:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lab 21-02: Intro to insect collecting - tools of the trade</title><link>https://aubreymoore.github.io/ALBI-345/blog/lab-21-02/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h2&gt;Visit to UOG Insect Collection&lt;/h2&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345</title><link>https://aubreymoore.github.io/ALBI-345/</link><description>This is a demo site for Nikola.</description><atom:link href="https://aubreymoore.github.io/ALBI-345/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Fri, 27 Aug 2021 20:44:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture 8: Insect Orders with Complete Metamorphosis</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-05-insect-orders-with-complete-metamorphosis/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;PowerPoint Presentation&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/Orders%20with%20Complete%20Metamorphosis.ppt"&gt;Orders with Complete Metamorphosis&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;References&lt;/h4&gt;
+&lt;p&gt;Pages 140-362 in your field guide (Neuroptera - Hymenoptera)&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-05-insect-orders-with-complete-metamorphosis/</guid><pubDate>Wed, 01 Sep 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-04: Insect Life Cycles</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-03-insect-life-cycles/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h4&gt;PowerPoint Presentation&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/understanding%20insect%20life%20cycles.ppt"&gt;Understanding Insect Life Cycles&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Reference&lt;/h4&gt;
+&lt;p&gt;Refer to the chapter &lt;em&gt;The Growth and Development of Insects&lt;/em&gt; in your field guide.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Gary Larson's immatures" src="https://aubreymoore.github.io/ALBI-345/images/Larson-immatures.jpg"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-03-insect-life-cycles/</guid><pubDate>Mon, 30 Aug 2021 02:45:00 GMT</pubDate></item><item><title>Lab 21-02: Intro to insect collecting - tools of the trade</title><link>https://aubreymoore.github.io/ALBI-345/blog/lab-21-02/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h2&gt;Visit to UOG Insect Collection&lt;/h2&gt;
 &lt;h2&gt;Basic Insect Collecting and Preservation Techniques&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Collecting equipment: nets, aspirators, killing jars&lt;/li&gt;
 &lt;li&gt;Pinning equipment: collection box, pins, paper points, pinning blocks, glassine envelopes, spreading boards, moth balls, labels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;First Collecting Experience&lt;/h2&gt;
-&lt;p&gt;Will collect one or two insects (adults only; no soft-bodied specimens), kill them, pin them, and label them.&lt;/p&gt;
+&lt;p&gt;To get started, we will collect one or two insects (adults only; no soft-bodied specimens), kill them, pin them, and label them.&lt;/p&gt;
 &lt;h2&gt;Using iNaturalist&lt;/h2&gt;
 &lt;p&gt;We will use the &lt;a href="https://www.inaturalist.org/projects/insects-of-micronesia"&gt;iNaturalist Insects of Micronesia project&lt;/a&gt; to compile a catalog for our collections.&lt;/p&gt;
 &lt;h2&gt;References&lt;/h2&gt;
@@ -32,7 +39,7 @@
 &lt;li&gt;What species insects are found in mud nests? For each nest, determine the species of the mud dauber, the prey items, and parasitoids.&lt;/li&gt;
 &lt;li&gt;Are there fewer flying insect on the windward side of the island than the leeward side?&lt;/li&gt;
 &lt;li&gt;Insects visiting extrafloral nectaries&lt;/li&gt;
-&lt;/ul&gt;</description><guid>https://aubreymoore.github.io/ALBI-345/blog/research-project-ideas/</guid><pubDate>Mon, 23 Aug 2021 14:00:00 GMT</pubDate></item><item><title>Lecture 2: Insect Biodiversity and Taxonomy</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture02/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h3&gt;Video: Planet Bob&lt;/h3&gt;
+&lt;/ul&gt;</description><guid>https://aubreymoore.github.io/ALBI-345/blog/research-project-ideas/</guid><pubDate>Mon, 23 Aug 2021 14:00:00 GMT</pubDate></item><item><title>Lecture 21-02: Insect Biodiversity and Taxonomy</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture02/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h3&gt;Video: Planet Bob&lt;/h3&gt;
 &lt;h3&gt;&lt;a href="https://www.youtube.com/watch?feature=player_embedded&amp;amp;v=mwuASmP7TfU"&gt;&lt;img alt="Planet Bob" src="https://aubreymoore.github.io/ALBI-345/images/PlanetBob.png"&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;h3&gt;Presentation (PDF): &lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/nomenclature.pdf"&gt;Insect Biodiversity and Taxonomy&lt;/a&gt;&lt;/h3&gt;
 &lt;hr&gt;
@@ -50,7 +57,7 @@ Another recent online article presents a rather disturbing
 &lt;li&gt;&lt;a href="http://hbs.bishopmuseum.org/pubs-online/iom.html"&gt;Insects of Micronesia (PDFs)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180"&gt;Online catalog for the University of Guam insect collection&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.inaturalist.org/projects/insects-of-micronesia"&gt;Insects of Micronesia iNaturalist project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture02/</guid><pubDate>Mon, 23 Aug 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 1: Introduction to Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;After introducing ourselves, we watched a DVD entitled &lt;a href="https://www.rainbowresource.com/proddtl.php?id=003598&amp;amp;subject=Science/11&amp;amp;category=Eyewitness+Science+DVDs+%2F+Videos/2920"&gt;Insect&lt;/a&gt;.&lt;/p&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</guid><pubDate>Wed, 18 Aug 2021 02:45:00 GMT</pubDate></item><item><title>EXAM 3</title><link>https://aubreymoore.github.io/ALBI-345/blog/exam-3/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;!--
+&lt;/ul&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture02/</guid><pubDate>Mon, 23 Aug 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-01: Introduction to Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;After an introduction to General Entomology, we watched a DVD entitled &lt;a href="https://www.rainbowresource.com/proddtl.php?id=003598&amp;amp;subject=Science/11&amp;amp;category=Eyewitness+Science+DVDs+%2F+Videos/2920"&gt;Insect&lt;/a&gt;.&lt;/p&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</guid><pubDate>Wed, 18 Aug 2021 02:45:00 GMT</pubDate></item><item><title>EXAM 3</title><link>https://aubreymoore.github.io/ALBI-345/blog/exam-3/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;!--
 .. title: EXAM 3
 .. slug: exam-3
 .. date: 2019-12-12 11:00
@@ -65,40 +72,4 @@ Another recent online article presents a rather disturbing
 ---&gt;
 
 &lt;p&gt;Lecture: Applied Entomology &lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/applied-ent.ppt"&gt;PPT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Zombie parasites &lt;a href="https://youtu.be/3n4kt-hOpzc"&gt;YouTube video; 24 m&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture18/</guid><pubDate>Tue, 26 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 17: Insect Ecology - Pollination</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture17/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/social%20insects.ppt"&gt;Social Insects (PPT)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/1095honey.ppt"&gt;Honey Bees (PPT)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/IB10932KillerBee.ppt"&gt;Killer Bees (PPT)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture17/</guid><pubDate>Thu, 21 Nov 2019 01:00:00 GMT</pubDate></item><item><title>Lecture 16: Insect Ecology - Insect Population Dynamics</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture16/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;!---
-A lecture on Semiochemicals originally scheduled for this time slot.
---&gt;
-
-&lt;h3&gt;Exponential Growth&lt;/h3&gt;
-&lt;p&gt;dN/dt = rN&lt;/p&gt;
-&lt;p&gt;where:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;r is the intrinsic growth rate: (births - deaths)/N&lt;/li&gt;
-&lt;li&gt;N is the population size&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=c6pcRR5Uy6w"&gt;Exponential Growth (YouTube; 10 minutes)&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Logistic Growth&lt;/h3&gt;
-&lt;p&gt;dN/dt = rN((K-N)/K)&lt;/p&gt;
-&lt;p&gt;where:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;K is the carrying capacity, the maximum population size that can be sustained by the environment&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rXlyYFXyfIM"&gt;Logistic Growth (YouTube; 11 minutes)&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Building a simple computer model of logistic growth&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;r and K Selection&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;r selected organisms produce many offspring = a high reproduction rate (r)&lt;/li&gt;
-&lt;li&gt;K selected organisms produce few offspring, but put significant resources into ensuring their survival&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Bu6ouKt9zhs"&gt;r/K Selection(YouTube; 7 minutes)&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Simulating Coconut Rhinoceros Population Dynamics&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/crb_population_dynamics.ipynb"&gt;An interactive Jupyter notebook which explores coconut rhinoceros beetle is available here&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Lotka-Volterra Model of Interspecific Competition&lt;/h3&gt;
-&lt;p&gt;The Lotka-Volterra model is used to calculate changes in the populations of two interacting populations
-such as a predator and its prey, or an insect and its parasitoid.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/Lotka-Volterra-Model.ipynb"&gt;An interactive Jupyter notebook which explores the Lotka-Volterra model is available here.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/Lotka-Volterra-Model.html"&gt;Handout: Lotka-Volterra Model&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture16/</guid><pubDate>Tue, 19 Nov 2019 01:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Zombie parasites &lt;a href="https://youtu.be/3n4kt-hOpzc"&gt;YouTube video; 24 m&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture18/</guid><pubDate>Tue, 26 Nov 2019 01:00:00 GMT</pubDate></item></channel></rss>

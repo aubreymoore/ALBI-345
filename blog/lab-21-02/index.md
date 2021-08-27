@@ -17,7 +17,7 @@
 
 # First Collecting Experience
 
-Will collect one or two insects (adults only; no soft-bodied specimens), kill them, pin them, and label them.
+To get started, we will collect one or two insects (adults only; no soft-bodied specimens), kill them, pin them, and label them.
 
 # Using iNaturalist
 
