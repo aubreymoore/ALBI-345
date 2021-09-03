@@ -1,3 +1,4 @@
 .doit*
 cache/*
 __pycache__/*
+git_authentcate.sh
