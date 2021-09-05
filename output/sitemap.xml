@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/</loc>
-  <lastmod>2021-08-24T23:05:00Z</lastmod>
+  <lastmod>2021-09-03T21:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/2017/</loc>
@@ -35,11 +35,11 @@
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/archive.html</loc>
-  <lastmod>2021-08-27T21:26:00Z</lastmod>
+  <lastmod>2021-09-05T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/</loc>
-  <lastmod>2021-08-27T21:26:00Z</lastmod>
+  <lastmod>2021-09-05T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/exam-3/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/index-5.html</loc>
-  <lastmod>2021-08-27T21:26:00Z</lastmod>
+  <lastmod>2021-09-05T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/lab-21-02/</loc>
@@ -156,6 +156,10 @@
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-05-insect-orders-with-complete-metamorphosis/</loc>
   <lastmod>2021-08-27T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-06-orders-with-incomplete-metamorphosis/</loc>
+  <lastmod>2021-09-05T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://aubreymoore.github.io/ALBI-345/blog/lecture-5-insect-morphology-inside-and-out/</loc>
