@@ -512,3 +512,6 @@
 'copy_assets:output/assets/js/luxon.min.js', (4978688, 400)
 'render_posts:cache/pages/2021_lab_list.html', (5007872, 885)
 'render_taxonomies:output/2021/index.html', (5008896, 5660)
+'copy_files:output/pdfs/Exam1-2021.odt', (5015040, 261)
+'copy_files:output/ALBI345F21_email_list.ods', (5015552, 273)
+'copy_files:output/ALBI345F21_email_list.csv', (5016064, 272)
