@@ -515,3 +515,7 @@
 'copy_files:output/pdfs/Exam1-2021.odt', (5015040, 261)
 'copy_files:output/ALBI345F21_email_list.ods', (5015552, 273)
 'copy_files:output/ALBI345F21_email_list.csv', (5016064, 272)
+'render_posts:cache/posts/lecture-21-09-insect-chemical-ecology.html', (5016576, 438)
+'render_pages:output/blog/lecture-21-09-insect-chemical-ecology/index.html', (5017088, 5214)
+'render_sources:output/blog/lecture-21-09-insect-chemical-ecology/index.md', (5022720, 298)
+'render_taxonomies:output/blog/index-6.html', (5140992, 4637)
