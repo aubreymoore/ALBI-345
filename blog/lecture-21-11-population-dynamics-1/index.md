@@ -28,8 +28,6 @@ where:
 
 Reference: [Wikipedia: Logistic Growth]()
 
-* Building a simple computer model of logistic growth
-
 ## r and K Selection
 
 * r selected organisms produce many offspring = a high reproduction rate (r)
@@ -38,10 +36,3 @@ Reference: [Wikipedia: Logistic Growth]()
 [r/K Selection(YouTube; 7 minutes)](https://www.youtube.com/watch?v=Bu6ouKt9zhs)
 
 Reference: [Wikipedia: r/K Selection Theory](https://en.wikipedia.org/wiki/R/K_selection_theory)
-
-
-## Simulating Coconut Rhinoceros Population Dynamics
-
-[An interactive Jupyter notebook which explores coconut rhinoceros beetle is available here](https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/crb_population_dynamics.ipynb).
-
-`e^{ix} = \cos x + i\sin x`
