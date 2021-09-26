@@ -4,6 +4,9 @@ Tags: lecture
 
 ## Exponential Growth Model
 
+* Also referred to as the Malthusian growth model. Thomas Malthus introduced this model in *An Essay on the Principle of Population* published in 1798.
+* The exponential growth model assumes unlimited resources such as food and space.
+
 dN/dt = rN
 
 where:
@@ -18,10 +21,14 @@ References: [Wikipedia: Exponential Growth](https://en.wikipedia.org/wiki/Expone
 
 ## Logistic Growth Model
 
-dN/dt = rN((K-N)/K)
+* Also referred to as the Verhulst growth model. This model was developed by Pierre Verhulst in 1838, after he had read Malthus' essay.
+* The logistic model assumes that resource availability limits the number of individuals in a population to constant K, the **carrying capacity**.
+
+dN/dt = rN *(K-N)/K
 
 where:
 
+* r is the instrinsic growth rate
 * K is the carrying capacity, the maximum population size that can be sustained by the environment
 
 [Logistic Growth (YouTube; 11 minutes)](https://www.youtube.com/watch?v=rXlyYFXyfIM)
