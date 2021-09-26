@@ -43,3 +43,5 @@ Reference: [Wikipedia: r/K Selection Theory](https://en.wikipedia.org/wiki/R/K_s
 ## Simulating Coconut Rhinoceros Population Dynamics
 
 [An interactive Jupyter notebook which explores coconut rhinoceros beetle is available here](https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/crb_population_dynamics.ipynb).
+
+`e^{ix} = \cos x + i\sin x`
