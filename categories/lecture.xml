@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about lecture)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/lecture.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Sun, 26 Sep 2021 20:42:17 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Insect Population Dynamics 1</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-11-population-dynamics-1/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h3&gt;Exponential Growth&lt;/h3&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about lecture)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/lecture.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Sun, 26 Sep 2021 20:56:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Insect Population Dynamics 2</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-12-population-dynamics-2/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;p&gt;In this lecture period, we model population dynamics of the coconut rhinoceros
+beetle using the exponential population growth model and the logistic population
+growth model.&lt;/p&gt;
+&lt;p&gt;The mathematical models are expressed in Python code in a Jupyter notebook so
+that we can play simulate CRB population growth.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://notebooks.azure.com/n/symgGHJO7iA/notebooks/crb_population_dynamics.ipynb"&gt;Interactive Jupyter Notebook: Modelling Coconut Rhinoceros Beetle Population Dynamics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/R/K_selection_theory"&gt;Wikipedia Article on r/K Selection Theory&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-12-population-dynamics-2/</guid><pubDate>Wed, 29 Sep 2021 02:45:00 GMT</pubDate></item><item><title>Insect Population Dynamics 1</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-11-population-dynamics-1/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;div&gt;&lt;h3&gt;Exponential Growth&lt;/h3&gt;
 &lt;p&gt;dN/dt = rN&lt;/p&gt;
 &lt;p&gt;where:&lt;/p&gt;
 &lt;ul&gt;
@@ -65,13 +77,4 @@ Another recent online article presents a rather disturbing
 &lt;li&gt;&lt;a href="http://hbs.bishopmuseum.org/pubs-online/iom.html"&gt;Insects of Micronesia (PDFs)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=180"&gt;Online catalog for the University of Guam insect collection&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.inaturalist.org/projects/insects-of-micronesia"&gt;Insects of Micronesia iNaturalist project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture02/</guid><pubDate>Mon, 23 Aug 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-01: Introduction to Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;After an introduction to General Entomology, we watched a DVD entitled &lt;a href="https://www.rainbowresource.com/proddtl.php?id=003598&amp;amp;subject=Science/11&amp;amp;category=Eyewitness+Science+DVDs+%2F+Videos/2920"&gt;Insect&lt;/a&gt;.&lt;/p&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</guid><pubDate>Wed, 18 Aug 2021 02:45:00 GMT</pubDate></item><item><title>EXAM 3</title><link>https://aubreymoore.github.io/ALBI-345/blog/exam-3/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;!--
-.. title: EXAM 3
-.. slug: exam-3
-.. date: 2019-12-12 11:00
-.. tags: lecture
-.. category: 
-.. link: 
-.. description: 
-.. type: text
---&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/exam-3/</guid><pubDate>Thu, 12 Dec 2019 01:00:00 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture02/</guid><pubDate>Mon, 23 Aug 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-01: Introduction to Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;After an introduction to General Entomology, we watched a DVD entitled &lt;a href="https://www.rainbowresource.com/proddtl.php?id=003598&amp;amp;subject=Science/11&amp;amp;category=Eyewitness+Science+DVDs+%2F+Videos/2920"&gt;Insect&lt;/a&gt;.&lt;/p&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture01/</guid><pubDate>Wed, 18 Aug 2021 02:45:00 GMT</pubDate></item></channel></rss>
