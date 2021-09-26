@@ -1,8 +1,8 @@
-Title: Insect Population Dynamics 1
+Title: Lecture 21-11: Insect Population Dynamics 1
 Date: 2021-09-27 12:45
 Tags: lecture
 
-## Exponential Growth
+## Exponential Growth Model
 
 dN/dt = rN
 
@@ -13,7 +13,10 @@ where:
 
 [Exponential Growth (YouTube; 10 minutes)](https://www.youtube.com/watch?v=c6pcRR5Uy6w)
 
-## Logistic Growth
+[References: Wikipedia: Exponential Growth](https://en.wikipedia.org/wiki/Exponential_growth),
+[Wikipedia: Malthusian growth model](https://en.wikipedia.org/wiki/Malthusian_growth_model)
+
+## Logistic Growth Model
 
 dN/dt = rN((K-N)/K)
 
@@ -22,6 +25,8 @@ where:
 * K is the carrying capacity, the maximum population size that can be sustained by the environment
 
 [Logistic Growth (YouTube; 11 minutes)](https://www.youtube.com/watch?v=rXlyYFXyfIM)
+
+[Reference: Wikipedia: Logistic Growth]()
 
 * Building a simple computer model of logistic growth
 
@@ -32,18 +37,9 @@ where:
 
 [r/K Selection(YouTube; 7 minutes)](https://www.youtube.com/watch?v=Bu6ouKt9zhs)
 
+Reference: [Wikipedia: r/K Selection Theory](https://en.wikipedia.org/wiki/R/K_selection_theory)
+
+
 ## Simulating Coconut Rhinoceros Population Dynamics
 
 [An interactive Jupyter notebook which explores coconut rhinoceros beetle is available here](https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/crb_population_dynamics.ipynb).
-
-## Lotka-Volterra Model of Interspecific Competition
-
-The Lotka-Volterra model is used to calculate changes in the populations of two interacting populations
-such as a predator and its prey, or an insect and its parasitoid.
-
-[An interactive Jupyter notebook which explores the Lotka-Volterra model is available here.](https://notebooks.azure.com/n/fTohfbbUNNs/notebooks/Lotka-Volterra-Model.ipynb)
-
-https://notebooks.azure.com/n/symgGHJO7iA/notebooks/Lotka-Volterra-Model.ipynb
-
-
-[Handout: Lotka-Volterra Model](/pdfs/Lotka-Volterra-Model.html)
