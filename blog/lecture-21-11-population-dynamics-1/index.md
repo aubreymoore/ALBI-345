@@ -13,7 +13,7 @@ where:
 
 [Exponential Growth (YouTube; 10 minutes)](https://www.youtube.com/watch?v=c6pcRR5Uy6w)
 
-[References: Wikipedia: Exponential Growth](https://en.wikipedia.org/wiki/Exponential_growth),
+References: [Wikipedia: Exponential Growth](https://en.wikipedia.org/wiki/Exponential_growth),
 [Wikipedia: Malthusian growth model](https://en.wikipedia.org/wiki/Malthusian_growth_model)
 
 ## Logistic Growth Model
@@ -26,7 +26,7 @@ where:
 
 [Logistic Growth (YouTube; 11 minutes)](https://www.youtube.com/watch?v=rXlyYFXyfIM)
 
-[Reference: Wikipedia: Logistic Growth]()
+Reference: [Wikipedia: Logistic Growth]()
 
 * Building a simple computer model of logistic growth
 
