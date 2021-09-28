@@ -2,6 +2,9 @@ Title: Lecure 21-12: Insect Population Dynamics 2
 Date: 2021-09-29 12:45
 Tags: lecture
 
+https://aubreymoore.github.io/SUMMA21
+
+
 In this lecture period, we model population dynamics of the coconut rhinoceros
 beetle using the exponential population growth model and the logistic population
 growth model.
