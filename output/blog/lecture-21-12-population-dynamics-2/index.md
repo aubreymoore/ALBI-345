@@ -1,4 +1,4 @@
-Title: Lecure 21-12: Insect Population Dynamics 2
+Title: Lecture 21-12: Insect Population Dynamics 2
 Date: 2021-09-29 12:45
 Tags: lecture
 
