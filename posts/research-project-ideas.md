@@ -14,3 +14,4 @@
 * What species insects are found in mud nests? For each nest, determine the species of the mud dauber, the prey items, and parasitoids.
 * Are there fewer flying insect on the windward side of the island than the leeward side?
 * Insects visiting extrafloral nectaries
+* [Citizen science project to study dietary preferneces of ants](https://scistarter.org/education/ant-picnic-education)
