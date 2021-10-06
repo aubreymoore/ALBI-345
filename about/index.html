@@ -11,7 +11,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <link href="../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#00ff00">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../rss.xml">
 <link rel="canonical" href="https://aubreymoore.github.io/ALBI-345/about/">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Aubrey Moore">
 <meta property="og:site_name" content="ALBI-345">
@@ -36,10 +36,11 @@ Since the previous web site w">
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark bg-dark
+navbar-dark
+bg-dark
 "><div class="container">
 <!-- This keeps the margins nice -->
-        <a class="navbar-brand" href="https://aubreymoore.github.io/ALBI-345/">
+        <a class="navbar-brand" href="../">
 
             <span id="blog-title">ALBI-345</span>
         </a>
@@ -84,21 +85,15 @@ navbar-dark bg-dark
         
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
-<div class="section" id="overview">
-<h2>Overview</h2>
+<section id="overview"><h2>Overview</h2>
 <p>This page contains some technical notes about this site.</p>
-</div>
-<div class="section" id="run-nikola-within-a-virtual-environment">
-<h2>Run nikola within a virtual environment</h2>
+</section><section id="run-nikola-within-a-virtual-environment"><h2>Run nikola within a virtual environment</h2>
 <p>Use <strong>workon nikola</strong>.</p>
-</div>
-<div class="section" id="reusing-posts-from-the-f2015-pelican-site">
-<h2>Reusing Posts from the F2015 Pelican Site</h2>
+</section><section id="reusing-posts-from-the-f2015-pelican-site"><h2>Reusing Posts from the F2015 Pelican Site</h2>
 <p>Since the previous web site was written using Pelican, it was convenient to use
 the Markdown metedata format. To enable this, I added <strong>markdown.extensions.meta</strong>
 to <strong>conf.py</strong>:</p>
-<pre class="literal-block">
-# What Markdown extensions to enable?
+<pre class="literal-block"># What Markdown extensions to enable?
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
@@ -109,15 +104,12 @@ MARKDOWN_EXTENSIONS = [
     'markdown.extensions.codehilite',
     'markdown.extensions.extra',
     'markdown.extensions.meta'
-]
-</pre>
-</div>
-<div class="section" id="scheduling">
-<h2>Scheduling</h2>
+]</pre>
+</section><section id="scheduling"><h2>Scheduling</h2>
 <p><strong>calendar.csv</strong> contains a list of dates and times for lectures and labs in a
 format that can be imported into Google calendars. Start dates and times are
 included in the metadata for each lecture and lab.</p>
-</div>
+</section>
 </div>
     </div>
     
@@ -131,9 +123,7 @@ included in the metadata for each lecture and lab.</p>
         <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>
