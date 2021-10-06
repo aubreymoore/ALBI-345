@@ -1,18 +1,17 @@
-<div class="section" id="overview">
+<section id="overview">
 <h1>Overview</h1>
 <p>This page contains some technical notes about this site.</p>
-</div>
-<div class="section" id="run-nikola-within-a-virtual-environment">
+</section>
+<section id="run-nikola-within-a-virtual-environment">
 <h1>Run nikola within a virtual environment</h1>
 <p>Use <strong>workon nikola</strong>.</p>
-</div>
-<div class="section" id="reusing-posts-from-the-f2015-pelican-site">
+</section>
+<section id="reusing-posts-from-the-f2015-pelican-site">
 <h1>Reusing Posts from the F2015 Pelican Site</h1>
 <p>Since the previous web site was written using Pelican, it was convenient to use
 the Markdown metedata format. To enable this, I added <strong>markdown.extensions.meta</strong>
 to <strong>conf.py</strong>:</p>
-<pre class="literal-block">
-# What Markdown extensions to enable?
+<pre class="literal-block"># What Markdown extensions to enable?
 # You will also get gist, nikola and podcast because those are
 # done in the code, hope you don't mind ;-)
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
@@ -23,12 +22,11 @@ MARKDOWN_EXTENSIONS = [
     'markdown.extensions.codehilite',
     'markdown.extensions.extra',
     'markdown.extensions.meta'
-]
-</pre>
-</div>
-<div class="section" id="scheduling">
+]</pre>
+</section>
+<section id="scheduling">
 <h1>Scheduling</h1>
 <p><strong>calendar.csv</strong> contains a list of dates and times for lectures and labs in a
 format that can be imported into Google calendars. Start dates and times are
 included in the metadata for each lecture and lab.</p>
-</div>
+</section>
