@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         ("/resources/index.html", "Resources"),
         ("/2021_lecture_list/index.html", "Lectures"),
         ("/2021_lab_list/index.html", "Labs"),
+        ("/2021/index.html", "Recent posts"),
         ("/about/index.html", "About"),
     ),
 }
