@@ -1,8 +1,8 @@
 * [Syllabus](/syllabus/ALBI345F19-syllabus.pdf)
 
 ## Research projects
-* [Report Template on Open Science Framework](https://osf.io/az2vq/)
-* [Ideas for research projects](/blog/research-project-ideas)
+
+We will be using the Open Science Framework to develop and document class projects. [This OSF project](https://osf.io/8zqxp/) contains instructions and a project template.
 
 ## Past Exams
 * [Exam1 2013](/pdfs/Exam 1.pdf)
