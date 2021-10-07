@@ -2,7 +2,7 @@
 
 ## Research projects
 
-We will be using the Open Science Framework to develop and document class projects. [This OSF project](https://osf.io/8zqxp/) contains instructions and a project template.
+We will be using the Open Science Framework to develop and document class projects. [This OSF project](https://osf.io/43skj/wiki/home/?view) contains instructions and a project template.
 
 ## Past Exams
 * [Exam1 2013](/pdfs/Exam 1.pdf)
