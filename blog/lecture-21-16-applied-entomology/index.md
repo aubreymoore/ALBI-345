@@ -9,4 +9,8 @@
 .. type: text
 -->
 
-Write your post here.
+
+
+Lecture: Applied Entomology [HTML (reveal)](https://aubreymoore.github.io/albi345-slides/applied-ent/)| [PPT](/pdfs/applied-ent.ppt)
+
+Zombie parasites [YouTube video; 24 m](https://youtu.be/3n4kt-hOpzc)
