@@ -12,7 +12,7 @@
 
 
 Lecture: Applied Entomology [HTML (reveal)](https://aubreymoore.github.io/albi345-slides/applied-ent/)|
-[PDF](https://aubreymoore.github.io/albi345-slides/applied-ent/applied_ent.pdf)}
+[PDF](https://aubreymoore.github.io/albi345-slides/applied-ent/applied-ent.pdf) |
 [PPT](/pdfs/applied-ent.ppt)
 
 Zombie parasites [YouTube video; 24 m](https://youtu.be/3n4kt-hOpzc)
