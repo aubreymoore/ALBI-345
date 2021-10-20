@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-Write your post here.
+[HTML (reveal)](https://aubreymoore.github.io/albi345-slides/SWCD-2021-07-30) | [PDF](https://aubreymoore.github.io/albi345-slides/SWCD-2021-07-30)
