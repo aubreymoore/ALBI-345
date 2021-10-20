@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-[HTML (reveal)](https://aubreymoore.github.io/albi345-slides/SWCD-2021-07-30) | [PDF](https://aubreymoore.github.io/albi345-slides/SWCD-2021-07-30)
+Presentation: Biological Invasion of Guam's Forests [HTML (reveal)](https://aubreymoore.github.io/albi345-slides/SWCD-2021-07-30) | [PDF](https://aubreymoore.github.io/albi345-slides/SWCD-2021-07-30)
