@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about blog)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/cat_blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Sun, 24 Oct 2021 23:57:53 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture-21-17 Review for EXAM2</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-17-review-for-exam2/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;h3&gt;Topics Covered Since Exam 1&lt;/h3&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about blog)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/cat_blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Mon, 25 Oct 2021 00:01:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture-21-17 Review for EXAM2</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-17-review-for-exam2/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;h3&gt;Topics Covered Since Exam 1&lt;/h3&gt;
+&lt;h4&gt;Chemical ecology&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Chemical ecology&lt;/li&gt;
 &lt;li&gt;Insects rely heavily on semiochemicals to get information from the environment.&lt;/li&gt;
 &lt;li&gt;Insects use pheromones for intraspecific communication. There are many types of pheromones: sex pheromones, aggregation pheromones, alarm pheromones, trail following pheromones, etc.&lt;/li&gt;
 &lt;li&gt;Synthetic pheromones extensively in insect pest control for monitoring, population reduction (attracticides), and mating disruption.&lt;/li&gt;
 &lt;li&gt;Insects use kairomones for finding food: host plants, nectar, prey and host insects.&lt;/li&gt;
-&lt;li&gt;Mimicry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Mimicry&lt;/h4&gt;
+&lt;ul&gt;
 &lt;li&gt;Warning coloration&lt;/li&gt;
 &lt;li&gt;Batesian mimicry&lt;/li&gt;
 &lt;li&gt;Mullerian mimicry&lt;/li&gt;
-&lt;li&gt;Population dynamics&lt;/li&gt;
-&lt;li&gt;Invasive species&lt;/li&gt;
-&lt;li&gt;Applied entomology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Population dynamics&lt;/h4&gt;
+&lt;h4&gt;Invasive species&lt;/h4&gt;
+&lt;h4&gt;Applied entomology&lt;/h4&gt;
+&lt;ul&gt;
 &lt;li&gt;Integrated pest management (IPM)&lt;/li&gt;
 &lt;/ul&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-17-review-for-exam2/</guid><pubDate>Mon, 25 Oct 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-07 Review for EXAM 1</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-07-review-for-exam-1/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;Review for Exam 1
 Life in the Undergrowth:&lt;/p&gt;</description><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-07-review-for-exam-1/</guid><pubDate>Wed, 20 Oct 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-16 Applied Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-16-applied-entomology/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;Lecture: Applied Entomology &lt;a href="https://aubreymoore.github.io/albi345-slides/applied-ent/"&gt;HTML (reveal)&lt;/a&gt;|
