@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about lecture)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/lecture.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Mon, 25 Oct 2021 00:18:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture-21-17 Review for EXAM2</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-17-review-for-exam2/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;h3&gt;Topics Covered Since Exam 1&lt;/h3&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALBI-345 (Posts about lecture)</title><link>https://aubreymoore.github.io/ALBI-345/</link><description></description><atom:link href="https://aubreymoore.github.io/ALBI-345/categories/lecture.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:aubreymoore@guam.net"&gt;Aubrey Moore&lt;/a&gt; </copyright><lastBuildDate>Mon, 25 Oct 2021 00:32:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lecture-21-17 Review for EXAM2</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-17-review-for-exam2/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;h3&gt;Topics Covered Since Exam 1&lt;/h3&gt;
 &lt;h4&gt;Chemical ecology&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Insects rely heavily on semiochemicals to get information from the environment.&lt;/li&gt;
@@ -7,15 +7,17 @@
 &lt;li&gt;Synthetic pheromones extensively in insect pest control for monitoring, population reduction (attracticides), and mating disruption.&lt;/li&gt;
 &lt;li&gt;Insects use kairomones for finding food: host plants, nectar, prey and host insects.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Mimicry&lt;/h4&gt;
+&lt;h4&gt;Mimicry and Camouflage&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Batesian mimicry: a non-harmful species (mimic) has evolved to look like a harmful species (model)&lt;/li&gt;
 &lt;li&gt;Mullerian mimicry: two or more unrelated noxious, or dangerous, organisms exhibit closely similar warning coloration (usually patterns often yellow, red and black stripes)&lt;/li&gt;
+&lt;li&gt;Camouflage&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Population dynamics&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Exponential model&lt;/li&gt;
 &lt;li&gt;Logistic model&lt;/li&gt;
+&lt;li&gt;Carrying capacity (k): maximum population size that can be sustained by the environment&lt;/li&gt;
 &lt;li&gt;r-selected and k-selected species&lt;/li&gt;
 &lt;li&gt;Lotka-Voltera model for population dynamics of interacting species&lt;/li&gt;
 &lt;/ul&gt;
@@ -27,7 +29,9 @@
 &lt;/ul&gt;
 &lt;h4&gt;Applied entomology&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Integrated pest management (IPM)&lt;/li&gt;
+&lt;li&gt;Integrated pest management (IPM): one or more pest control tactics are selected based on knowledge of the current situation gained from pest monitoring.&lt;/li&gt;
+&lt;li&gt;IPM tactics include pesticide application, sanitation, biological control, physical control, cultural control, and "do nothing".&lt;/li&gt;
+&lt;li&gt;If possible, broad spectrum pesticides should be avoided because they may kill beneficial insects which will lead to an uncontrolled resurgence of pests.&lt;/li&gt;
 &lt;/ul&gt;</description><category>lecture</category><guid>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-17-review-for-exam2/</guid><pubDate>Mon, 25 Oct 2021 02:45:00 GMT</pubDate></item><item><title>Lecture 21-16 Applied Entomology</title><link>https://aubreymoore.github.io/ALBI-345/blog/lecture-21-16-applied-entomology/</link><dc:creator>Aubrey Moore</dc:creator><description>&lt;p&gt;Lecture: Applied Entomology &lt;a href="https://aubreymoore.github.io/albi345-slides/applied-ent/"&gt;HTML (reveal)&lt;/a&gt;|
 &lt;a href="https://aubreymoore.github.io/albi345-slides/applied-ent/applied-ent.pdf"&gt;PDF&lt;/a&gt; |
 &lt;a href="https://aubreymoore.github.io/ALBI-345/pdfs/applied-ent.ppt"&gt;PPT&lt;/a&gt;&lt;/p&gt;
