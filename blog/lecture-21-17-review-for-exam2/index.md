@@ -30,6 +30,7 @@
   * Invasive species readily establish on tropical islands because there are few natural enemies, weather is benign (no winter), and there is usually plenty of food and water.
   * Fifty percent of Guam's invasive insects belong to Order Hemiptera
 ### Applied entomology
+  * Pest control based solely on pesticide application is limited because of pesticide resistance and nontarget effects.
   * Integrated pest management (IPM): one or more pest control tactics are selected based on knowledge of the current situation gained from pest monitoring.
   * IPM tactics include pesticide application, sanitation, biological control, physical control, cultural control, and "do nothing".
   * If possible, broad spectrum pesticides should be avoided because they may kill beneficial insects which will lead to an uncontrolled resurgence of pests.
