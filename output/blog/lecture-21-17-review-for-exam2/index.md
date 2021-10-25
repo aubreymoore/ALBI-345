@@ -33,4 +33,5 @@
   * Pest control based solely on pesticide application is limited because of pesticide resistance and nontarget effects.
   * Integrated pest management (IPM): one or more pest control tactics are selected based on knowledge of the current situation gained from pest monitoring.
   * IPM tactics include pesticide application, sanitation, biological control, physical control, cultural control, and "do nothing".
+  * Economic threshold level (EIL): the population density at which pest control should be initiated to prevent economic damage.
   * If possible, broad spectrum pesticides should be avoided because they may kill beneficial insects which will lead to an uncontrolled resurgence of pests.
