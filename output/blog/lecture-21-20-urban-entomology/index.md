@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-## Urban Entomology [HTML](https://aubreymoore.github.io/albi345-slides/urban-entomology/index.html) [PDF](https://aubreymoore.github.io/albi345-slides/urban-entomology/urban-entmology.pdf) [PPT](https://aubreymoore.github.io/albi345-slides/urban-entomology.ppt)
+## Urban Entomology [HTML](https://aubreymoore.github.io/albi345-slides/urban-entomology/index.html) [PDF](https://aubreymoore.github.io/albi345-slides/urban-entomology/urban-entomology.pdf) [PPT](https://aubreymoore.github.io/albi345-slides/urban-entomology/urban-entomology.ppt)
