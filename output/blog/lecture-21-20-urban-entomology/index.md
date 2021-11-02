@@ -2,7 +2,7 @@
 .. title: Lecture-21-20 Urban Entomology
 .. slug: lecture-21-20-urban-entomology
 .. date: 2021-11-03 12:45 UTC+10:00
-.. tags:lecture
+.. tags: lecture
 .. category:
 .. link:
 .. description:
