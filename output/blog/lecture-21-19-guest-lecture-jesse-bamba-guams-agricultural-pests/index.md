@@ -10,5 +10,5 @@
 -->
 
 Guest Lecture by Jesse Bamba: Insect Pest of Agriculture on Guam [HTML (reveal)](https://aubreymoore.github.io/albi345-slides/bamba_insect_pests/)|
-[PDF](https://aubreymoore.github.io/albi345-slides/bamba_insect_pests.pdf) |
-[PPT](/files/pdfs/bamba_insect_pests.ppt)
+[PDF](https://aubreymoore.github.io/albi345-slides/bamba_insect_pests/bamba_insect_pests.pdf) |
+[PPT](/pdfs/bamba_insect_pests.ppt)
