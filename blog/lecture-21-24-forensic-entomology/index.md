@@ -12,4 +12,4 @@
 ### Video
 Crime Scene Critters
 
-## Lecture: Urban Entomology [HTML](https://aubreymoore.github.io/https://aubreymoore.github.io/albi345-slides/GCCForensicEntBeamer2/index.html) [PDF](https://aubreymoore.github.io/albi345-slides/GCCForensicEntBeamer2/GCCForensicEntBeamer2.pdf)
+## Lecture: Urban Entomology [HTML](https://aubreymoore.github.io/albi345-slides/GCCForensicEntBeamer2/index.html) [PDF](https://aubreymoore.github.io/albi345-slides/GCCForensicEntBeamer2/GCCForensicEntBeamer2.pdf)
