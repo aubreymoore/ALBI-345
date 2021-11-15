@@ -2,7 +2,7 @@
 .. title: Lecture-21-24 Forensic Entomology
 .. slug: lecture-21-24-forensic-entomology
 .. date: 2021-11-17 12:45 UTC+10:00
-.. tags:
+.. tags: lecture
 .. category:
 .. link:
 .. description:
