@@ -8,7 +8,8 @@
 .. description:
 .. type: text
 -->
+https://www.youtube.com/watch?v=-S4mYV0Jmy4
 
-## Video: Crime Scene Creatures [YouTube](https://www.youtube.com/watch?v=ZMIEhJLFoog)
+## Video: Crime Scene Creatures [YouTube](https://www.youtube.com/watch?v=S4mYV0Jmy4)
 
 ## Lecture: Forensic Entomology Research on Guam [HTML](https://aubreymoore.github.io/albi345-slides/GCCForensicEntBeamer2/index.html) [PDF](https://aubreymoore.github.io/albi345-slides/GCCForensicEntBeamer2/GCCForensicEntBeamer2.pdf)
