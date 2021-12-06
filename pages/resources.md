@@ -6,6 +6,7 @@ We will be using the Open Science Framework to develop and document class projec
 
 ## Past Exams
 * [Exam1 2013](/pdfs/Exam 1.pdf)
+* [Exam 3 2021 (doc)](/pdfs/Exam3-2021.doc)
 
 ## Miscellaneous
 * [A Pictorial Key to Orders of Adult Insects on Guam](/pdfs/guam_orders_key.pdf)
